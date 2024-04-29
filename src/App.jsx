@@ -13,6 +13,8 @@ import MyComponent3 from "./MyComponent3";
 import ToDoList from "./ToDoList";
 import MyComponent4 from "./MyComponent4";
 import MyComponent5 from "./MyComponent5";
+import MyComponent6 from "./ComponentA";
+import ComponentA from "./ComponentA";
 
 function App() {
   // const fruits = [
@@ -53,7 +55,7 @@ function App() {
     {/*<ToDoList/>*/}
 
 
-    {<MyComponent5/>}
+    {<ComponentA/>}
 
 
     </>
